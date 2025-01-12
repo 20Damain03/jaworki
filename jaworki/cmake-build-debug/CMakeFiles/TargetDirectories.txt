@@ -1,0 +1,3 @@
+/Users/damiangomolka/CLionProjects/jaworki/cmake-build-debug/CMakeFiles/jaworki.dir
+/Users/damiangomolka/CLionProjects/jaworki/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/damiangomolka/CLionProjects/jaworki/cmake-build-debug/CMakeFiles/rebuild_cache.dir
